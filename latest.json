@@ -1,0 +1,11 @@
+﻿{
+    "platforms":  {
+                      "windows-x86_64":  {
+                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSSkN0NEtZSGhYRFhGb1BuSWFIQUdRdmFiR0xNVWZVRWlTV0lxQXV0UnZKT1JIbTlISyttU3czTkkwVHV4WDFGZWJPOXMySTdJM2xjWGg4TG54NWNOSGp1amIzVFp0bndzPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyMzE3NTYyCWZpbGU6T1pLQU4gRklORElLIEVSUF8wLjEuMl94NjQtc2V0dXAuZXhlCXZlcnNpb246MC4xLjIKamNJV2ExVlA0NEhjM0UvWExPazY5L3BOVUt2K1pHMFAwSkV2NmlpL3h5VFBlMEhjV3dyL2FQQkdSK1ZKRStYd1p0bWh3VWZJVlNGYVA5VjlXeGV4Q3c9PQo=",
+                                             "url":  "https://github.com/gulsahh1/OzkanFindikERP-Updates/releases/download/v0.1.2/OZKAN%20FINDIK%20ERP_0.1.2_x64-setup.exe"
+                                         }
+                  },
+    "pub_date":  "2026-10-18T10:02:18Z",
+    "version":  "0.1.2",
+    "notes":  "Özkan Fındık ERP güncellemesi"
+}
